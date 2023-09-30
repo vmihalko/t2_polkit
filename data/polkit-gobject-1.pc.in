@@ -2,7 +2,7 @@ prefix=@prefix@
 exec_prefix=@exec_prefix@
 libdir=@libdir@
 includedir=@includedir@
-policydir=@datarootdir@/polkit-1/actions/
+policydir=@datarootdir@/polkit-1/rules.d/
 actiondir=@datarootdir@/polkit-1/actions/
 
 Name: polkit-gobject-1
